@@ -28,15 +28,18 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need AWS account to access the service like S3, ECR and EC2 instances.
 
 ## Data Collections
-![image](https://user-images.githubusercontent.com/57321948/193536736-5ccff349-d1fb-486e-b920-02ad7974d089.png)
+![193536736-5ccff349-d1fb-486e-b920-02ad7974d089](https://github.com/Rohii1515/SensorGuard-Pro/assets/101645749/729a5e9e-573e-42cb-acdf-ba84dc877f1e)
+
 
 
 ## Project Archietecture
-![image](https://user-images.githubusercontent.com/57321948/193536768-ae704adc-32d9-4c6c-b234-79c152f756c5.png)
+![193536768-ae704adc-32d9-4c6c-b234-79c152f756c5](https://github.com/Rohii1515/SensorGuard-Pro/assets/101645749/4bc5f245-2f61-4dc3-a3c2-d4bbc61afb32)
+
 
 
 ## Deployment Archietecture
-![image](https://user-images.githubusercontent.com/57321948/193536973-4530fe7d-5509-4609-bfd2-cd702fc82423.png)
+![193536973-4530fe7d-5509-4609-bfd2-cd702fc82423](https://github.com/Rohii1515/SensorGuard-Pro/assets/101645749/86082c7a-bfca-4b13-94b4-ddd72790df3f)
+
 
 
 ### Step 1: Clone the repository
