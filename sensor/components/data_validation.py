@@ -8,6 +8,10 @@ from sensor.utils.main_utils import read_yaml_file,write_yaml_file
 from scipy.stats import ks_2samp
 import pandas as pd
 import os,sys
+
+
+
+
 class DataValidation:
 
     def __init__(self,data_ingestion_artifact:DataIngestionArtifact,
@@ -87,7 +91,7 @@ class DataValidation:
             return status
         except Exception as e:
             raise SensorException(e,sys)
-   
+
 
     def initiate_data_validation(self)->DataValidationArtifact:
         try:
