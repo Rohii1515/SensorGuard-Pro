@@ -50,7 +50,7 @@ git clone https://github.com/Rohii1515/SensorGuard-Pro.git
 ### Step 2- Create a conda environment after opening the repository
 
 ```bash
-conda create -n sensor python=3.10 -y
+conda create -p venv python==3.10 -y
 ```
 
 ```bash
