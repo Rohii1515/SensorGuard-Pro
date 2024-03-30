@@ -10,8 +10,6 @@ import pandas as pd
 import os,sys
 
 
-
-
 class DataValidation:
 
     def __init__(self,data_ingestion_artifact:DataIngestionArtifact,
