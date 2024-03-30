@@ -6,7 +6,7 @@ httptools
 imblearn
 mypy-boto3-s3
 pip-chill
-pymongo
+pymongo[srv]
 python-dotenv
 types-s3transfer
 uvicorn
